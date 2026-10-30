@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b84490b0-17af-444b-ab7c-ead7a87eb1a8">
-  <name>DEMO_Space</name>
+  <name>DEMO_Space_project</name>
   <synonym>
     <key>ru</key>
-    <value>DEMO space</value>
+    <value>DEMO space project</value>
   </synonym>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="bf756290-1eeb-40bc-854c-0bdf12184099"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="2ff0f5b5-f7b2-441c-8cc8-d5a80bb1de94"/>
